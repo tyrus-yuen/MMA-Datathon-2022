@@ -1,3 +1,4 @@
+#List out the manufacturers which list more than 1 products in the supermarket
 
 import pandas as pd
 import matplotlib

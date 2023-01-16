@@ -1,3 +1,4 @@
+#Summarize the total promotion budget spent on each products
 
 import pandas as pd
 import matplotlib

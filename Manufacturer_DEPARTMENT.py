@@ -1,3 +1,5 @@
+#Summarize the main department of the goods sold by the manufacturer
+
 #open "/Applications/IntelliJ IDEA CE.app/Contents/MacOS/idea"
 
 import pandas as pd

@@ -1,3 +1,5 @@
+#Test of Linear regression model on the input data (promotion budget spent on products)
+
 import matplotlib.mlab as mlab
 import matplotlib.pyplot as plt
 import numpy as np

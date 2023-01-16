@@ -1,4 +1,5 @@
 #Test of Linear regression model on the input data (promotion budget spent on products)
+#Quantity ~ mean of percentage discount by supermarket promotion + mean of percentage discount by manufacturer promotion + count of store 
 
 import matplotlib.mlab as mlab
 import matplotlib.pyplot as plt

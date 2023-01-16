@@ -1,4 +1,5 @@
 #Summarize the total promotion budget spent on each products
+#Input to the generalized linear model
 
 import pandas as pd
 import matplotlib

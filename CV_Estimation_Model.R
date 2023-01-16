@@ -1,3 +1,5 @@
+#Cross validation for the best tuning parameter (the link function) and provide estimates on the data model
+
 library('readxl')
 library(jtools)
 library(MASS)

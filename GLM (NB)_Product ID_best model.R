@@ -1,3 +1,9 @@
+#To deploy linear regression model, t-distribution & generalized linear model to the dataset of manufacturer promotion budget
+#The results will reflect the effectiveness of the promotion budget by the manufacturer to determine which manufacturer has the incentive of investing the digital adverstisment of the supermarket
+
+obtain the best tune parameters for each manufacturer
+
+
 library('readxl')
 library(jtools)
 library(MASS)
